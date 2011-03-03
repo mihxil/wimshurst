@@ -25,7 +25,7 @@ wimshurst-a4.tex: $(DEPS)
 	latex $<
 
 %.signature.ps: %-a5.ps
-	psbook -s16 $< $@
+	psbook -s8 $< $@
 
 %.ps: %.dvi
 	dvips $< -f > $@
