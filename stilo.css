@@ -1,0 +1,35 @@
+@import url(../stilo.css);
+
+body.hermans {
+  color: white;
+  background-image: none;
+  background-color: #445;
+  max-width: 50em;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1ex;
+}
+body.hermans h1 {
+  width: 100%;
+}
+body.hermans p,
+body.hermans ul {
+    background-color: transparent;
+}
+
+body.hermans p {
+  text-indent: 1em;
+  margin: 0;
+}
+body.hermans div.par {
+  margin-bottom: 2ex;
+}
+body.hermans div.intro {
+  margin-bottom: 2ex;
+}
+body.hermans div.intro[xml:lang=nl] {
+  font-style: italic;
+}
+body.hermans p:first-child {
+  text-indent: 0;
+}
