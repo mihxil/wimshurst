@@ -20,6 +20,7 @@ body.hermans ul {
 body.hermans p {
   text-indent: 1em;
   margin: 0;
+  padding: 0;
 }
 body.hermans div.par {
   margin-bottom: 2ex;
@@ -32,4 +33,15 @@ body.hermans div.intro[xml:lang=nl] {
 }
 body.hermans p:first-child {
   text-indent: 0;
+}
+body.hermans ul {
+    padding: 0;
+    margin: 0;
+}
+body.hermans img.right {
+    margin-top: 1ex;
+    margin-right: -150px;
+}
+body.hermans hr {
+    color: white;
 }
