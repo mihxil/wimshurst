@@ -4,4 +4,5 @@
     s| Wimshurst| Wims\\-hurst|g;
     s|plejmulto|plej\\-multo|g;
     s|puŝĉareto|puŝ\\-ĉar\\-eto|g;
+    s|Malantaŭaj|Mal\\-an\\-taŭ\\-aj|g;
 
