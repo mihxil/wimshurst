@@ -38,7 +38,7 @@ body.hermans ul {
     padding: 0;
     margin: 0;
 }
-body.hermans img.right {
+body.hermans .right {
     margin-top: 1ex;
     margin-right: -150px;
 }
