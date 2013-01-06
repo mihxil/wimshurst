@@ -6,4 +6,5 @@
     s|puŝĉareto|puŝ\\-ĉar\\-eto|g;
     s|Malantaŭaj|Mal\\-an\\-taŭ\\-aj|g;
     s|evidentiĝas|evid\\-ent\\-iĝas|g;
+    s|posttagmezon|post\\-tag\\-mezon|g;
 

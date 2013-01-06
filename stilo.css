@@ -40,8 +40,16 @@ body.hermans ul {
 }
 body.hermans .right {
     margin-top: 1ex;
-    margin-right: -150px;
+    margin-right: 0px;
 }
 body.hermans hr {
     color: white;
+}
+
+body.hermans span.nomo {
+    text-transform: uppercase;
+}
+
+body.hermans h1 span {
+
 }
