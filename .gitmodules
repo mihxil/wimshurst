@@ -1,0 +1,3 @@
+[submodule "html2latex"]
+	path = html2latex
+	url = https://github.com/mihxil/html2latex
