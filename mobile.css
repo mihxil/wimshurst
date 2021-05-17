@@ -1,0 +1,23 @@
+body.hermans h1,
+body.hermans h2 {
+    text-align: left !important;
+}
+body.hermans .right {
+    margin-right: auto !important;
+    margin-left: 2px !important;
+    float: left;
+    clear: both;
+}
+body.hermans p {
+    clear: both;
+}
+
+hr {
+    margin-left: 10px;
+    margin-right: auto;
+    width: 200px;
+}
+img {
+    max-width: 200px !important;
+    height: auto !important;
+}
