@@ -6,11 +6,13 @@
 /*.dvi
 /*.ps
 /*.eps
+/*.xdv
 /*-a4.tex
 /*-a5.tex
 /*-epub.tex
 /400px*
 /revisio.tex
+/revisio.txt
 /zeeland.eps
 /profitulo-a4.tex
 /profitulo-epub.tex
